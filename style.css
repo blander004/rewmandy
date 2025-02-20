@@ -228,6 +228,7 @@ h1{
 }
 .qq13{
     display: flex;
+    gap:20px;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
