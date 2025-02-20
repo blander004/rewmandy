@@ -504,7 +504,7 @@ position: relative;
 .qq25 span{
     color: #fdbd1f;
 }
-@media screen and (max-width: 1186px) {
+@media screen and (max-width: 1170px) {
     .qq5{
         justify-content: center;
     }
